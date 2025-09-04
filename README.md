@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working on marchine learning projects
-- 🌱 I’m currently learning SQL and brain computer interface based on electroencephalographic data
+- 🌱 I’m currently learning nlp
 - 📫 How to reach me: belenarbizu98@gmail.com
 - 😄 Pronouns: she/her
 
