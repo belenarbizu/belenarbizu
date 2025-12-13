@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working on marchine learning projects
-- 🌱 I’m currently learning CNN
+- 🌱 I’m currently learning NLP and Reinforcement Learning
 - 📫 How to reach me: belenarbizu98@gmail.com
 - 😄 Pronouns: she/her
 
