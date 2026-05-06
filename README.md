@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working on marchine learning projects
-- 🌱 I’m currently learning Forecasting and Reinforcement Learning
+- 🌱 I’m currently learning Computer Vision and LLM + RAG
 - 📫 How to reach me: belenarbizu98@gmail.com
 - 😄 Pronouns: she/her
 
